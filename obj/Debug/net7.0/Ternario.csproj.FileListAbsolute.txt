@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\Ternario\bin\Debug\net7.0\Ternario.exe
+C:\Users\plaud\Desktop\Ternario\bin\Debug\net7.0\Ternario.deps.json
+C:\Users\plaud\Desktop\Ternario\bin\Debug\net7.0\Ternario.runtimeconfig.json
+C:\Users\plaud\Desktop\Ternario\bin\Debug\net7.0\Ternario.dll
+C:\Users\plaud\Desktop\Ternario\bin\Debug\net7.0\Ternario.pdb
+C:\Users\plaud\Desktop\Ternario\obj\Debug\net7.0\Ternario.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\Ternario\obj\Debug\net7.0\Ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\Ternario\obj\Debug\net7.0\Ternario.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\Ternario\obj\Debug\net7.0\Ternario.AssemblyInfo.cs
+C:\Users\plaud\Desktop\Ternario\obj\Debug\net7.0\Ternario.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\Ternario\obj\Debug\net7.0\Ternario.dll
+C:\Users\plaud\Desktop\Ternario\obj\Debug\net7.0\refint\Ternario.dll
+C:\Users\plaud\Desktop\Ternario\obj\Debug\net7.0\Ternario.pdb
+C:\Users\plaud\Desktop\Ternario\obj\Debug\net7.0\Ternario.genruntimeconfig.cache
+C:\Users\plaud\Desktop\Ternario\obj\Debug\net7.0\ref\Ternario.dll
